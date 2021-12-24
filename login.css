@@ -1,0 +1,13 @@
+#heading {
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: brown;
+}
+
+.body {
+    background-color: cadetblue;
+}
+
+.b {
+    background-color: rgb(0, 255, 170);
+}
